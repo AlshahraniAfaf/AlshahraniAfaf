@@ -14,13 +14,13 @@ A dedicated Computer Scientist with expertise in technical support, hardware/sof
 
 ## 🚀 Key Projects
 
-### 🐍 Python & Machine Learning
+### Python & Machine Learning
 * [E_Learning Data Analysis Project](https://github.com/AlshahraniAfaf/E_Learning_Data_Analysis): 
   * An end-to-end Python project analyzing 5,000+ course enrollments using Pandas, NumPy, Matplotlib, and Seaborn to deliver data cleaning, visualization, and strategic sales insights.
 * [Spam-Message-Classification Project](https://github.com/AlshahraniAfaf/Spam-Message-Classification): 
   * A Machine Learning project focused on classifying text messages into "Spam" or "Ham" using Natural Language Processing (NLP) techniques.
 
-### 📊 Power BI & Dashboards
+### Power BI & Dashboards
 * [World Wide Importers Project](https://github.com/AlshahraniAfaf/World-Wide-Importers-Project): 
   * An interactive Power BI dashboard built to analyze sales performance, profitability, and operational trends using the World Wide Importers dataset.
 The dashboard provides actionable insights into sales trends, product performance, and state-level profitability to support data-driven decision-making.
