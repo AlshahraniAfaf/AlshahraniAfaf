@@ -5,10 +5,7 @@
 ---
 
 ### About Me
-Computer Science graduate with specialized hands-on training in Data Science (Tuwaiq Academy) and Data Analysis (Hash Plus). Passionate about data processing, visualization, and building end-to-end analytical solutions.
-
-A dedicated Computer Scientist with a strong foundation in Data Analysis, Machine Learning, and Technical Support. I turn complex data into actionable insights through interactive dashboards, structured analysis, and predictive modeling using Python, Power BI, and SQL/Excel.
-
+A dedicated Computer Scientist with expertise in technical support, hardware/software troubleshooting, and data analysis using Microsoft Power BI, Excel, and Python. Also skilled in Machine Learning with Python. Seeking to contribute my technical skills, knowledge, and problem-solving abilities to a professional organization that offers growth and career development opportunities.
 ---
 
 ## 🛠️ Technical Skills
@@ -38,7 +35,7 @@ The dashboard provides actionable insights into sales trends, product performanc
   * An interactive Power BI dashboard focused on analyzing global IMDb movie trends, revenue distributions, and audience preferences. This project showcases data engineering, advanced DAX modeling, and custom UI design to transform cinema data into meaningful business and cinematic insights.
 
 
-## 📜 Professional Training & Certifications
+## 📜 Courses
 
 * Data Science and Machine Learning using Python – Tuwaiq Academy
 * Data Analysis Bootcamp – Hash Plus
