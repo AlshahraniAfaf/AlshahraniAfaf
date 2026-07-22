@@ -1,6 +1,6 @@
 ## Afaf Alshahrani — Data Analyst & Computer Scientist
 
-> Transforming data into strategic business insights using Python, Power BI, and Machine Learning.
+> Transforming data into strategic business insights using Python, Power BI, Excel, and Machine Learning.
 
 ---
 
@@ -38,7 +38,7 @@ The dashboard provides actionable insights into sales trends, product performanc
 ## 📜 Courses
 
 * Data Science and Machine Learning using Python – Tuwaiq Academy
-* Data Analysis Bootcamp – Hash Plus
+* Data Analysis Camp – Hash Plus
 * Business Intelligence using Microsoft Power BI – Ethrai
 * Business Intelligence and Decision-making – Ethrai
 
