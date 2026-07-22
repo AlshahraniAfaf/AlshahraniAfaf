@@ -2,11 +2,8 @@
 
 > Transforming data into strategic business insights using Python, Power BI, Excel, and Machine Learning.
 
----
-
 ### About Me
 A dedicated Computer Scientist with expertise in technical support, hardware/software troubleshooting, and data analysis using Microsoft Power BI, Excel, and Python. Also skilled in Machine Learning with Python. Seeking to contribute my technical skills, knowledge, and problem-solving abilities to a professional organization that offers growth and career development opportunities.
----
 
 ## 🛠️ Technical Skills
 
@@ -14,8 +11,6 @@ A dedicated Computer Scientist with expertise in technical support, hardware/sof
 * Data Science & ML: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
 * Software & Web Development: MERN Stack, Git & GitHub
 * Technical Support: Systems Troubleshooting, Network Configuration, IT Operations
-
----
 
 ## 🚀 Key Projects
 
@@ -34,15 +29,12 @@ The dashboard provides actionable insights into sales trends, product performanc
 * [Top IMDb Movies Project](https://github.com/AlshahraniAfaf/Top-IMDb-Movies-Project): 
   * An interactive Power BI dashboard focused on analyzing global IMDb movie trends, revenue distributions, and audience preferences. This project showcases data engineering, advanced DAX modeling, and custom UI design to transform cinema data into meaningful business and cinematic insights.
 
-
 ## 📜 Courses
 
 * Data Science and Machine Learning using Python – Tuwaiq Academy
 * Data Analysis Camp – Hash Plus
 * Business Intelligence using Microsoft Power BI – Ethrai
 * Business Intelligence and Decision-making – Ethrai
-
----
 
 ## 📬 Connect with Me
 
