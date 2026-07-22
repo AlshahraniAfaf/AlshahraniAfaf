@@ -1,4 +1,4 @@
-## Afaf Alshahrani — ###Data Analyst & Computer Scientist
+## Afaf Alshahrani — Data Analyst & Computer Scientist
 
 > Transforming data into strategic business insights using Python, Power BI, Excel, and Machine Learning.
 
